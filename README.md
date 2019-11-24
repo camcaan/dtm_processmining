@@ -2,7 +2,7 @@
 This repository is part of submitted conference paper in the Healthinf-2020
 
 #### Paper's info:
-Title: Process Mining of Disease Trajectory: A Feasibility Study
+Title: Process Mining of Disease Trajectory: A Feasibility Study<br>
 Submission ID: 108
 
 #### Authors:
