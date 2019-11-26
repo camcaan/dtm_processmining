@@ -1,6 +1,6 @@
 ## Repository: Process Mining Disease Trajectory Mining
 This repository is part of submitted conference paper in the Healthinf 2020.<br>
-(see website: http://www.healthinf.biostec.org/)
+(see website: <a href="http://www.healthinf.biostec.org/" target="_blank">http://www.healthinf.biostec.org/</a>)
 
 #### Paper's info:
 Title: Process Mining of Disease Trajectory: A Feasibility Study<br>
